@@ -1,0 +1,4 @@
+﻿  ДЗ.cpp
+C:\Users\USER\source\repos\ДЗ\ДЗ\ДЗ.cpp(951,6): warning C4101: 'a': unreferenced local variable
+C:\Users\USER\source\repos\ДЗ\ДЗ\ДЗ.cpp(952,9): warning C4101: 'ad': unreferenced local variable
+  ДЗ.vcxproj -> C:\Users\USER\source\repos\ДЗ\x64\Debug\ДЗ.exe
